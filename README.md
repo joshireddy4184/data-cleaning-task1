@@ -23,4 +23,4 @@ The main tasks performed on the dataset include:
 - All changes are saved in the cleaned version of the dataset.
 
 ## Author
-- Prepared and cleaned by: Palle Joshi Reddy
+- Prepared and cleaned by: **Palle Joshi Reddy**
